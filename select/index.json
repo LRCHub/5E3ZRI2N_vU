@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BEAT",
+  "base_artist": "WurtS",
+  "createdAt": "2026-02-07T22:51:51.688378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Beat_It_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead-Beat",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Dead-Beat_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Beat",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Dead_Beat_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beat of the Music",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/04_Beat_of_the_Music_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Heart Skips A Beat",
+      "artist": "Buck Owens",
+      "has_synced": false,
+      "path": "select/05_My_Heart_Skips_A_Beat_Buck_Owens.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ridin' to the Beat",
+      "artist": "David Fanning",
+      "has_synced": true,
+      "path": "select/06_Ridin'_to_the_Beat_David_Fanning.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tryin' To Beat The Morning Home",
+      "artist": "T.G. Sheppard",
+      "has_synced": false,
+      "path": "select/07_Tryin'_To_Beat_The_Morning_Home_T.G._Sheppard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heart Skipped a Beat",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/08_Heart_Skipped_a_Beat_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beat Africano",
+      "artist": "Los Violadores",
+      "has_synced": false,
+      "path": "select/09_Beat_Africano_Los_Violadores.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beat & Rap",
+      "artist": "Samy Deluxe",
+      "has_synced": false,
+      "path": "select/10_Beat_&_Rap_Samy_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beat Boy",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/11_Beat_Boy_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beauty and the Beat",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/12_Beauty_and_the_Beat_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel the Beat",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/13_Feel_the_Beat_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Need a Beat",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/14_I_Need_a_Beat_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eat To the Beat",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/15_Eat_To_the_Beat_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beat of Your Drum",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Beat_of_Your_Drum_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beat of Your Drum",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_Beat_of_Your_Drum_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEAT",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_BEAT_WurtS.txt"
+    }
+  ]
+}
